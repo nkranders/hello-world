@@ -1,2 +1,3 @@
 # hello-world
 my_first_repository
+I am still figuring out what that is...
